@@ -1,0 +1,8 @@
+{
+    "benchmark": ["sudoku", "jsudoku", "gtsudoku", "exam_timetable", "nurse_rostering", "jobshop", "random"],
+    "algorithm": ["growacq"],
+    "objective": ["max_viol"],
+    "features": ["rel_dim_block"],
+    "findc": ["findc", "guided-findc"],
+    "n_runs": [10]
+} 

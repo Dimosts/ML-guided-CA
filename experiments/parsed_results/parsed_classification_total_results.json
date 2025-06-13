@@ -1,0 +1,182 @@
+[
+    {
+        "Classifier": "decision_tree",
+        "Feature": "rel_dim",
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0,
+        "Accuracy_std": NaN,
+        "Balanced_Accuracy_std": NaN,
+        "F1_Score_std": NaN
+    },
+    {
+        "Classifier": "decision_tree",
+        "Feature": "rel_dim_block",
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0,
+        "Accuracy_std": NaN,
+        "Balanced_Accuracy_std": NaN,
+        "F1_Score_std": NaN
+    },
+    {
+        "Classifier": "decision_tree",
+        "Feature": "simple_rel",
+        "Accuracy": 0.9583333333333334,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0,
+        "Accuracy_std": NaN,
+        "Balanced_Accuracy_std": NaN,
+        "F1_Score_std": NaN
+    },
+    {
+        "Classifier": "logistic_regression",
+        "Feature": "rel_dim",
+        "Accuracy": 0.9444444444444444,
+        "Balanced Accuracy": 0.4927536231884058,
+        "F1 Score": 0.0,
+        "Accuracy_std": NaN,
+        "Balanced_Accuracy_std": NaN,
+        "F1_Score_std": NaN
+    },
+    {
+        "Classifier": "logistic_regression",
+        "Feature": "rel_dim_block",
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0,
+        "Accuracy_std": NaN,
+        "Balanced_Accuracy_std": NaN,
+        "F1_Score_std": NaN
+    },
+    {
+        "Classifier": "logistic_regression",
+        "Feature": "simple_rel",
+        "Accuracy": 0.9583333333333334,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0,
+        "Accuracy_std": NaN,
+        "Balanced_Accuracy_std": NaN,
+        "F1_Score_std": NaN
+    },
+    {
+        "Classifier": "mlp",
+        "Feature": "rel_dim",
+        "Accuracy": 0.991358024691358,
+        "Balanced Accuracy": 0.9246376811594204,
+        "F1 Score": 0.8914728682170543,
+        "Accuracy_std": NaN,
+        "Balanced_Accuracy_std": NaN,
+        "F1_Score_std": NaN
+    },
+    {
+        "Classifier": "mlp",
+        "Feature": "rel_dim_block",
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0,
+        "Accuracy_std": NaN,
+        "Balanced_Accuracy_std": NaN,
+        "F1_Score_std": NaN
+    },
+    {
+        "Classifier": "mlp",
+        "Feature": "simple_rel",
+        "Accuracy": 0.9583333333333334,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0,
+        "Accuracy_std": NaN,
+        "Balanced_Accuracy_std": NaN,
+        "F1_Score_std": NaN
+    },
+    {
+        "Classifier": "naive_bayes",
+        "Feature": "rel_dim",
+        "Accuracy": 0.8757716049382716,
+        "Balanced Accuracy": 0.9351851851851852,
+        "F1 Score": 0.4014869888475836,
+        "Accuracy_std": NaN,
+        "Balanced_Accuracy_std": NaN,
+        "F1_Score_std": NaN
+    },
+    {
+        "Classifier": "naive_bayes",
+        "Feature": "rel_dim_block",
+        "Accuracy": 0.875,
+        "Balanced Accuracy": 0.934782608695652,
+        "F1 Score": 0.4,
+        "Accuracy_std": NaN,
+        "Balanced_Accuracy_std": NaN,
+        "F1_Score_std": NaN
+    },
+    {
+        "Classifier": "naive_bayes",
+        "Feature": "simple_rel",
+        "Accuracy": 0.875,
+        "Balanced Accuracy": 0.934782608695652,
+        "F1 Score": 0.4,
+        "Accuracy_std": NaN,
+        "Balanced_Accuracy_std": NaN,
+        "F1_Score_std": NaN
+    },
+    {
+        "Classifier": "random_forest",
+        "Feature": "rel_dim",
+        "Accuracy": 0.9998971193415638,
+        "Balanced Accuracy": 0.9987654320987654,
+        "F1 Score": 0.9987639060568604,
+        "Accuracy_std": NaN,
+        "Balanced_Accuracy_std": NaN,
+        "F1_Score_std": NaN
+    },
+    {
+        "Classifier": "random_forest",
+        "Feature": "rel_dim_block",
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0,
+        "Accuracy_std": NaN,
+        "Balanced_Accuracy_std": NaN,
+        "F1_Score_std": NaN
+    },
+    {
+        "Classifier": "random_forest",
+        "Feature": "simple_rel",
+        "Accuracy": 0.9583333333333334,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0,
+        "Accuracy_std": NaN,
+        "Balanced_Accuracy_std": NaN,
+        "F1_Score_std": NaN
+    },
+    {
+        "Classifier": "svm",
+        "Feature": "rel_dim",
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0,
+        "Accuracy_std": NaN,
+        "Balanced_Accuracy_std": NaN,
+        "F1_Score_std": NaN
+    },
+    {
+        "Classifier": "svm",
+        "Feature": "rel_dim_block",
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0,
+        "Accuracy_std": NaN,
+        "Balanced_Accuracy_std": NaN,
+        "F1_Score_std": NaN
+    },
+    {
+        "Classifier": "svm",
+        "Feature": "simple_rel",
+        "Accuracy": 0.5573559670781894,
+        "Balanced Accuracy": 0.7690552871712292,
+        "F1 Score": 0.1584352078239608,
+        "Accuracy_std": NaN,
+        "Balanced_Accuracy_std": NaN,
+        "F1_Score_std": NaN
+    }
+]

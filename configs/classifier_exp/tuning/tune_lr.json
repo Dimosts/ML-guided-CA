@@ -1,0 +1,5 @@
+{
+    "benchmark": ["sudoku", "jsudoku", "gtsudoku", "nqueens", "exam_timetable", "nurse_rostering", "jobshop", "murder"],
+    "feature": ["rel_dim_block", "rel_dim", "simple_rel"],
+    "classifier": ["logistic_regression"]
+} 

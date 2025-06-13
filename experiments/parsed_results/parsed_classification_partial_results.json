@@ -1,0 +1,1298 @@
+[
+    {
+        "Classifier": "decision_tree",
+        "Feature": "rel_dim",
+        "Percentage": 0.1,
+        "Accuracy": 0.9948559670781894,
+        "Balanced Accuracy": 0.9697225484439224,
+        "F1 Score": 0.9384404924760602
+    },
+    {
+        "Classifier": "decision_tree",
+        "Feature": "rel_dim",
+        "Percentage": 0.2,
+        "Accuracy": 0.9976851851851852,
+        "Balanced Accuracy": 0.985201118374559,
+        "F1 Score": 0.9716088328075708
+    },
+    {
+        "Classifier": "decision_tree",
+        "Feature": "rel_dim",
+        "Percentage": 0.3,
+        "Accuracy": 0.9995590828924162,
+        "Balanced Accuracy": 0.9997701853837904,
+        "F1 Score": 0.9946140035906644
+    },
+    {
+        "Classifier": "decision_tree",
+        "Feature": "rel_dim",
+        "Percentage": 0.4,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "decision_tree",
+        "Feature": "rel_dim",
+        "Percentage": 0.5,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "decision_tree",
+        "Feature": "rel_dim",
+        "Percentage": 0.6,
+        "Accuracy": 0.9981995884773662,
+        "Balanced Accuracy": 0.9930793991416308,
+        "F1 Score": 0.978328173374613
+    },
+    {
+        "Classifier": "decision_tree",
+        "Feature": "rel_dim",
+        "Percentage": 0.7,
+        "Accuracy": 0.998971193415638,
+        "Balanced Accuracy": 0.9994625582228592,
+        "F1 Score": 0.9881422924901184
+    },
+    {
+        "Classifier": "decision_tree",
+        "Feature": "rel_dim",
+        "Percentage": 0.8,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "decision_tree",
+        "Feature": "rel_dim",
+        "Percentage": 0.9,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "decision_tree",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.1,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "decision_tree",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.2,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "decision_tree",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.3,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "decision_tree",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.4,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "decision_tree",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.5,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "decision_tree",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.6,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "decision_tree",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.7,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "decision_tree",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.8,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "decision_tree",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.9,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "decision_tree",
+        "Feature": "simple_rel",
+        "Percentage": 0.1,
+        "Accuracy": 0.9583904892546868,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "decision_tree",
+        "Feature": "simple_rel",
+        "Percentage": 0.2,
+        "Accuracy": 0.9592335390946504,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "decision_tree",
+        "Feature": "simple_rel",
+        "Percentage": 0.3,
+        "Accuracy": 0.959288653733098,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "decision_tree",
+        "Feature": "simple_rel",
+        "Percentage": 0.4,
+        "Accuracy": 0.9580761316872428,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "decision_tree",
+        "Feature": "simple_rel",
+        "Percentage": 0.5,
+        "Accuracy": 0.9580246913580248,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "decision_tree",
+        "Feature": "simple_rel",
+        "Percentage": 0.6,
+        "Accuracy": 0.9588477366255144,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "decision_tree",
+        "Feature": "simple_rel",
+        "Percentage": 0.7,
+        "Accuracy": 0.9571330589849107,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "decision_tree",
+        "Feature": "simple_rel",
+        "Percentage": 0.8,
+        "Accuracy": 0.9591049382716048,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "decision_tree",
+        "Feature": "simple_rel",
+        "Percentage": 0.9,
+        "Accuracy": 0.9573045267489712,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "logistic_regression",
+        "Feature": "rel_dim",
+        "Percentage": 0.1,
+        "Accuracy": 0.9418152720621856,
+        "Balanced Accuracy": 0.4913525763358778,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "logistic_regression",
+        "Feature": "rel_dim",
+        "Percentage": 0.2,
+        "Accuracy": 0.944187242798354,
+        "Balanced Accuracy": 0.4921571256200563,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "logistic_regression",
+        "Feature": "rel_dim",
+        "Percentage": 0.3,
+        "Accuracy": 0.9452527924750148,
+        "Balanced Accuracy": 0.492684234717328,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "logistic_regression",
+        "Feature": "rel_dim",
+        "Percentage": 0.4,
+        "Accuracy": 0.9434156378600824,
+        "Balanced Accuracy": 0.4923489932885906,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "logistic_regression",
+        "Feature": "rel_dim",
+        "Percentage": 0.5,
+        "Accuracy": 0.943724279835391,
+        "Balanced Accuracy": 0.4925365120274914,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "logistic_regression",
+        "Feature": "rel_dim",
+        "Percentage": 0.6,
+        "Accuracy": 0.943801440329218,
+        "Balanced Accuracy": 0.4921539699570815,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "logistic_regression",
+        "Feature": "rel_dim",
+        "Percentage": 0.7,
+        "Accuracy": 0.9435871056241426,
+        "Balanced Accuracy": 0.492923683267646,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "logistic_regression",
+        "Feature": "rel_dim",
+        "Percentage": 0.8,
+        "Accuracy": 0.944701646090535,
+        "Balanced Accuracy": 0.4924912845266828,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "logistic_regression",
+        "Feature": "rel_dim",
+        "Percentage": 0.9,
+        "Accuracy": 0.941358024691358,
+        "Balanced Accuracy": 0.491671144545943,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "logistic_regression",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.1,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "logistic_regression",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.2,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "logistic_regression",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.3,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "logistic_regression",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.4,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "logistic_regression",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.5,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "logistic_regression",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.6,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "logistic_regression",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.7,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "logistic_regression",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.8,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "logistic_regression",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.9,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "logistic_regression",
+        "Feature": "simple_rel",
+        "Percentage": 0.1,
+        "Accuracy": 0.9583904892546868,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "logistic_regression",
+        "Feature": "simple_rel",
+        "Percentage": 0.2,
+        "Accuracy": 0.9592335390946504,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "logistic_regression",
+        "Feature": "simple_rel",
+        "Percentage": 0.3,
+        "Accuracy": 0.959288653733098,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "logistic_regression",
+        "Feature": "simple_rel",
+        "Percentage": 0.4,
+        "Accuracy": 0.9580761316872428,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "logistic_regression",
+        "Feature": "simple_rel",
+        "Percentage": 0.5,
+        "Accuracy": 0.9580246913580248,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "logistic_regression",
+        "Feature": "simple_rel",
+        "Percentage": 0.6,
+        "Accuracy": 0.9588477366255144,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "logistic_regression",
+        "Feature": "simple_rel",
+        "Percentage": 0.7,
+        "Accuracy": 0.9571330589849107,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "logistic_regression",
+        "Feature": "simple_rel",
+        "Percentage": 0.8,
+        "Accuracy": 0.9591049382716048,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "logistic_regression",
+        "Feature": "simple_rel",
+        "Percentage": 0.9,
+        "Accuracy": 0.9573045267489712,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "mlp",
+        "Feature": "rel_dim",
+        "Percentage": 0.1,
+        "Accuracy": 0.9913122999542752,
+        "Balanced Accuracy": 0.8983718017534442,
+        "F1 Score": 0.8843226788432268
+    },
+    {
+        "Classifier": "mlp",
+        "Feature": "rel_dim",
+        "Percentage": 0.2,
+        "Accuracy": 0.992091049382716,
+        "Balanced Accuracy": 0.9340364285155908,
+        "F1 Score": 0.9029202841357538
+    },
+    {
+        "Classifier": "mlp",
+        "Feature": "rel_dim",
+        "Percentage": 0.3,
+        "Accuracy": 0.9934597295708408,
+        "Balanced Accuracy": 0.9264440783155312,
+        "F1 Score": 0.9173630454967502
+    },
+    {
+        "Classifier": "mlp",
+        "Feature": "rel_dim",
+        "Percentage": 0.4,
+        "Accuracy": 0.9939128943758574,
+        "Balanced Accuracy": 0.963002667956616,
+        "F1 Score": 0.9264248704663212
+    },
+    {
+        "Classifier": "mlp",
+        "Feature": "rel_dim",
+        "Percentage": 0.5,
+        "Accuracy": 0.994238683127572,
+        "Balanced Accuracy": 0.9331189710610932,
+        "F1 Score": 0.9234972677595628
+    },
+    {
+        "Classifier": "mlp",
+        "Feature": "rel_dim",
+        "Percentage": 0.6,
+        "Accuracy": 0.991898148148148,
+        "Balanced Accuracy": 0.8993610223642172,
+        "F1 Score": 0.8880994671403197
+    },
+    {
+        "Classifier": "mlp",
+        "Feature": "rel_dim",
+        "Percentage": 0.7,
+        "Accuracy": 0.9919410150891632,
+        "Balanced Accuracy": 0.8958384911344959,
+        "F1 Score": 0.8816120906801007
+    },
+    {
+        "Classifier": "mlp",
+        "Feature": "rel_dim",
+        "Percentage": 0.8,
+        "Accuracy": 0.992283950617284,
+        "Balanced Accuracy": 0.8986486486486487,
+        "F1 Score": 0.8872180451127819
+    },
+    {
+        "Classifier": "mlp",
+        "Feature": "rel_dim",
+        "Percentage": 0.9,
+        "Accuracy": 0.9917695473251028,
+        "Balanced Accuracy": 0.9588589331354604,
+        "F1 Score": 0.9
+    },
+    {
+        "Classifier": "mlp",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.1,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "mlp",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.2,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "mlp",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.3,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "mlp",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.4,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "mlp",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.5,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "mlp",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.6,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "mlp",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.7,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "mlp",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.8,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "mlp",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.9,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "mlp",
+        "Feature": "simple_rel",
+        "Percentage": 0.1,
+        "Accuracy": 0.9583333333333334,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "mlp",
+        "Feature": "simple_rel",
+        "Percentage": 0.2,
+        "Accuracy": 0.9577546296296297,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "mlp",
+        "Feature": "simple_rel",
+        "Percentage": 0.3,
+        "Accuracy": 0.9574514991181656,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "mlp",
+        "Feature": "simple_rel",
+        "Percentage": 0.4,
+        "Accuracy": 0.9587620027434842,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "mlp",
+        "Feature": "simple_rel",
+        "Percentage": 0.5,
+        "Accuracy": 0.9598765432098766,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "mlp",
+        "Feature": "simple_rel",
+        "Percentage": 0.6,
+        "Accuracy": 0.9597479423868313,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "mlp",
+        "Feature": "simple_rel",
+        "Percentage": 0.7,
+        "Accuracy": 0.9621056241426612,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "mlp",
+        "Feature": "simple_rel",
+        "Percentage": 0.8,
+        "Accuracy": 0.9619341563786008,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "mlp",
+        "Feature": "simple_rel",
+        "Percentage": 0.9,
+        "Accuracy": 0.9598765432098766,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "naive_bayes",
+        "Feature": "rel_dim",
+        "Percentage": 0.1,
+        "Accuracy": 0.887631458619113,
+        "Balanced Accuracy": 0.94137643129771,
+        "F1 Score": 0.4254821741671537
+    },
+    {
+        "Classifier": "naive_bayes",
+        "Feature": "rel_dim",
+        "Percentage": 0.2,
+        "Accuracy": 0.876929012345679,
+        "Balanced Accuracy": 0.935849309558922,
+        "F1 Score": 0.3984915147705845
+    },
+    {
+        "Classifier": "naive_bayes",
+        "Feature": "rel_dim",
+        "Percentage": 0.3,
+        "Accuracy": 0.8772780717225162,
+        "Balanced Accuracy": 0.936034931821664,
+        "F1 Score": 0.3988480921526278
+    },
+    {
+        "Classifier": "naive_bayes",
+        "Feature": "rel_dim",
+        "Percentage": 0.4,
+        "Accuracy": 0.8774862825788752,
+        "Balanced Accuracy": 0.9360626398210292,
+        "F1 Score": 0.4063149148317407
+    },
+    {
+        "Classifier": "naive_bayes",
+        "Feature": "rel_dim",
+        "Percentage": 0.5,
+        "Accuracy": 0.8787037037037037,
+        "Balanced Accuracy": 0.936694587628866,
+        "F1 Score": 0.4090225563909774
+    },
+    {
+        "Classifier": "naive_bayes",
+        "Feature": "rel_dim",
+        "Percentage": 0.6,
+        "Accuracy": 0.8793724279835391,
+        "Balanced Accuracy": 0.9370976394849786,
+        "F1 Score": 0.4055766793409379
+    },
+    {
+        "Classifier": "naive_bayes",
+        "Feature": "rel_dim",
+        "Percentage": 0.7,
+        "Accuracy": 0.8804869684499315,
+        "Balanced Accuracy": 0.9375671802221426,
+        "F1 Score": 0.4177109440267335
+    },
+    {
+        "Classifier": "naive_bayes",
+        "Feature": "rel_dim",
+        "Percentage": 0.8,
+        "Accuracy": 0.8834876543209876,
+        "Balanced Accuracy": 0.9392598551890587,
+        "F1 Score": 0.4124513618677042
+    },
+    {
+        "Classifier": "naive_bayes",
+        "Feature": "rel_dim",
+        "Percentage": 0.9,
+        "Accuracy": 0.8811728395061729,
+        "Balanced Accuracy": 0.9379365932294466,
+        "F1 Score": 0.4181360201511335
+    },
+    {
+        "Classifier": "naive_bayes",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.1,
+        "Accuracy": 0.8752857796067672,
+        "Balanced Accuracy": 0.9349355916030536,
+        "F1 Score": 0.40021990104453
+    },
+    {
+        "Classifier": "naive_bayes",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.2,
+        "Accuracy": 0.8739068930041153,
+        "Balanced Accuracy": 0.9342740313714974,
+        "F1 Score": 0.3926912356766801
+    },
+    {
+        "Classifier": "naive_bayes",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.3,
+        "Accuracy": 0.8757348618459729,
+        "Balanced Accuracy": 0.9352305806649304,
+        "F1 Score": 0.3958556627366916
+    },
+    {
+        "Classifier": "naive_bayes",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.4,
+        "Accuracy": 0.8771433470507545,
+        "Balanced Accuracy": 0.9358836689038031,
+        "F1 Score": 0.4056408129406885
+    },
+    {
+        "Classifier": "naive_bayes",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.5,
+        "Accuracy": 0.8766460905349794,
+        "Balanced Accuracy": 0.935620704467354,
+        "F1 Score": 0.4049627791563275
+    },
+    {
+        "Classifier": "naive_bayes",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.6,
+        "Accuracy": 0.8773148148148148,
+        "Balanced Accuracy": 0.936024678111588,
+        "F1 Score": 0.4015056461731493
+    },
+    {
+        "Classifier": "naive_bayes",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.7,
+        "Accuracy": 0.8784293552812071,
+        "Balanced Accuracy": 0.936492296667861,
+        "F1 Score": 0.4135649296939619
+    },
+    {
+        "Classifier": "naive_bayes",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.8,
+        "Accuracy": 0.8816872427983539,
+        "Balanced Accuracy": 0.938321265754894,
+        "F1 Score": 0.4087403598971722
+    },
+    {
+        "Classifier": "naive_bayes",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.9,
+        "Accuracy": 0.8811728395061729,
+        "Balanced Accuracy": 0.9379365932294466,
+        "F1 Score": 0.4181360201511335
+    },
+    {
+        "Classifier": "naive_bayes",
+        "Feature": "simple_rel",
+        "Percentage": 0.1,
+        "Accuracy": 0.8752857796067672,
+        "Balanced Accuracy": 0.9349355916030536,
+        "F1 Score": 0.40021990104453
+    },
+    {
+        "Classifier": "naive_bayes",
+        "Feature": "simple_rel",
+        "Percentage": 0.2,
+        "Accuracy": 0.8739068930041153,
+        "Balanced Accuracy": 0.9342740313714974,
+        "F1 Score": 0.3926912356766801
+    },
+    {
+        "Classifier": "naive_bayes",
+        "Feature": "simple_rel",
+        "Percentage": 0.3,
+        "Accuracy": 0.8757348618459729,
+        "Balanced Accuracy": 0.9352305806649304,
+        "F1 Score": 0.3958556627366916
+    },
+    {
+        "Classifier": "naive_bayes",
+        "Feature": "simple_rel",
+        "Percentage": 0.4,
+        "Accuracy": 0.8771433470507545,
+        "Balanced Accuracy": 0.9358836689038031,
+        "F1 Score": 0.4056408129406885
+    },
+    {
+        "Classifier": "naive_bayes",
+        "Feature": "simple_rel",
+        "Percentage": 0.5,
+        "Accuracy": 0.8766460905349794,
+        "Balanced Accuracy": 0.935620704467354,
+        "F1 Score": 0.4049627791563275
+    },
+    {
+        "Classifier": "naive_bayes",
+        "Feature": "simple_rel",
+        "Percentage": 0.6,
+        "Accuracy": 0.8773148148148148,
+        "Balanced Accuracy": 0.936024678111588,
+        "F1 Score": 0.4015056461731493
+    },
+    {
+        "Classifier": "naive_bayes",
+        "Feature": "simple_rel",
+        "Percentage": 0.7,
+        "Accuracy": 0.8784293552812071,
+        "Balanced Accuracy": 0.936492296667861,
+        "F1 Score": 0.4135649296939619
+    },
+    {
+        "Classifier": "naive_bayes",
+        "Feature": "simple_rel",
+        "Percentage": 0.8,
+        "Accuracy": 0.8816872427983539,
+        "Balanced Accuracy": 0.938321265754894,
+        "F1 Score": 0.4087403598971722
+    },
+    {
+        "Classifier": "naive_bayes",
+        "Feature": "simple_rel",
+        "Percentage": 0.9,
+        "Accuracy": 0.8811728395061729,
+        "Balanced Accuracy": 0.9379365932294466,
+        "F1 Score": 0.4181360201511335
+    },
+    {
+        "Classifier": "random_forest",
+        "Feature": "rel_dim",
+        "Percentage": 0.1,
+        "Accuracy": 0.9901691815272062,
+        "Balanced Accuracy": 0.8923800436205016,
+        "F1 Score": 0.8693009118541033
+    },
+    {
+        "Classifier": "random_forest",
+        "Feature": "rel_dim",
+        "Percentage": 0.2,
+        "Accuracy": 0.9956275720164608,
+        "Balanced Accuracy": 0.9546786364830157,
+        "F1 Score": 0.944353518821604
+    },
+    {
+        "Classifier": "random_forest",
+        "Feature": "rel_dim",
+        "Percentage": 0.3,
+        "Accuracy": 0.998530276308054,
+        "Balanced Accuracy": 0.9819494584837544,
+        "F1 Score": 0.9816176470588236
+    },
+    {
+        "Classifier": "random_forest",
+        "Feature": "rel_dim",
+        "Percentage": 0.4,
+        "Accuracy": 0.9987139917695472,
+        "Balanced Accuracy": 0.9846625766871164,
+        "F1 Score": 0.9844236760124612
+    },
+    {
+        "Classifier": "random_forest",
+        "Feature": "rel_dim",
+        "Percentage": 0.5,
+        "Accuracy": 0.998971193415638,
+        "Balanced Accuracy": 0.9877450980392156,
+        "F1 Score": 0.9875930521091812
+    },
+    {
+        "Classifier": "random_forest",
+        "Feature": "rel_dim",
+        "Percentage": 0.6,
+        "Accuracy": 0.9984567901234568,
+        "Balanced Accuracy": 0.98125,
+        "F1 Score": 0.9808917197452228
+    },
+    {
+        "Classifier": "random_forest",
+        "Feature": "rel_dim",
+        "Percentage": 0.7,
+        "Accuracy": 0.9986282578875172,
+        "Balanced Accuracy": 0.984,
+        "F1 Score": 0.983739837398374
+    },
+    {
+        "Classifier": "random_forest",
+        "Feature": "rel_dim",
+        "Percentage": 0.8,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "random_forest",
+        "Feature": "rel_dim",
+        "Percentage": 0.9,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "random_forest",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.1,
+        "Accuracy": 0.9999428440786464,
+        "Balanced Accuracy": 0.9993093922651934,
+        "F1 Score": 0.9993089149965446
+    },
+    {
+        "Classifier": "random_forest",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.2,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "random_forest",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.3,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "random_forest",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.4,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "random_forest",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.5,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "random_forest",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.6,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "random_forest",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.7,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "random_forest",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.8,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "random_forest",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.9,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "random_forest",
+        "Feature": "simple_rel",
+        "Percentage": 0.1,
+        "Accuracy": 0.9583904892546868,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "random_forest",
+        "Feature": "simple_rel",
+        "Percentage": 0.2,
+        "Accuracy": 0.9592335390946504,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "random_forest",
+        "Feature": "simple_rel",
+        "Percentage": 0.3,
+        "Accuracy": 0.959288653733098,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "random_forest",
+        "Feature": "simple_rel",
+        "Percentage": 0.4,
+        "Accuracy": 0.9580761316872428,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "random_forest",
+        "Feature": "simple_rel",
+        "Percentage": 0.5,
+        "Accuracy": 0.9580246913580248,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "random_forest",
+        "Feature": "simple_rel",
+        "Percentage": 0.6,
+        "Accuracy": 0.9588477366255144,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "random_forest",
+        "Feature": "simple_rel",
+        "Percentage": 0.7,
+        "Accuracy": 0.9571330589849107,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "random_forest",
+        "Feature": "simple_rel",
+        "Percentage": 0.8,
+        "Accuracy": 0.9591049382716048,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "random_forest",
+        "Feature": "simple_rel",
+        "Percentage": 0.9,
+        "Accuracy": 0.9573045267489712,
+        "Balanced Accuracy": 0.5,
+        "F1 Score": 0.0
+    },
+    {
+        "Classifier": "svm",
+        "Feature": "rel_dim",
+        "Percentage": 0.1,
+        "Accuracy": 0.9833676268861454,
+        "Balanced Accuracy": 0.8686407824894138,
+        "F1 Score": 0.7883636363636364
+    },
+    {
+        "Classifier": "svm",
+        "Feature": "rel_dim",
+        "Percentage": 0.2,
+        "Accuracy": 0.991898148148148,
+        "Balanced Accuracy": 0.9513949242873632,
+        "F1 Score": 0.9044006069802732
+    },
+    {
+        "Classifier": "svm",
+        "Feature": "rel_dim",
+        "Percentage": 0.3,
+        "Accuracy": 0.9963256907701352,
+        "Balanced Accuracy": 0.97992720105846,
+        "F1 Score": 0.9570446735395188
+    },
+    {
+        "Classifier": "svm",
+        "Feature": "rel_dim",
+        "Percentage": 0.4,
+        "Accuracy": 0.9985425240054868,
+        "Balanced Accuracy": 0.9912815951893122,
+        "F1 Score": 0.9823468328141224
+    },
+    {
+        "Classifier": "svm",
+        "Feature": "rel_dim",
+        "Percentage": 0.5,
+        "Accuracy": 0.9997942386831276,
+        "Balanced Accuracy": 0.9974358974358974,
+        "F1 Score": 0.9974293059125964
+    },
+    {
+        "Classifier": "svm",
+        "Feature": "rel_dim",
+        "Percentage": 0.6,
+        "Accuracy": 0.9998713991769548,
+        "Balanced Accuracy": 0.9984025559105432,
+        "F1 Score": 0.9984
+    },
+    {
+        "Classifier": "svm",
+        "Feature": "rel_dim",
+        "Percentage": 0.7,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "svm",
+        "Feature": "rel_dim",
+        "Percentage": 0.8,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "svm",
+        "Feature": "rel_dim",
+        "Percentage": 0.9,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "svm",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.1,
+        "Accuracy": 0.9874256973022404,
+        "Balanced Accuracy": 0.9934394942446472,
+        "F1 Score": 0.8688915375446961
+    },
+    {
+        "Classifier": "svm",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.2,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "svm",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.3,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "svm",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.4,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "svm",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.5,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "svm",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.6,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "svm",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.7,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "svm",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.8,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "svm",
+        "Feature": "rel_dim_block",
+        "Percentage": 0.9,
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "F1 Score": 1.0
+    },
+    {
+        "Classifier": "svm",
+        "Feature": "simple_rel",
+        "Percentage": 0.1,
+        "Accuracy": 0.7069615912208504,
+        "Balanced Accuracy": 0.8471103954195742,
+        "F1 Score": 0.2214123006833713
+    },
+    {
+        "Classifier": "svm",
+        "Feature": "simple_rel",
+        "Percentage": 0.2,
+        "Accuracy": 0.7080118312757202,
+        "Balanced Accuracy": 0.84756629741524,
+        "F1 Score": 0.2244235695986336
+    },
+    {
+        "Classifier": "svm",
+        "Feature": "simple_rel",
+        "Percentage": 0.3,
+        "Accuracy": 0.7075249853027631,
+        "Balanced Accuracy": 0.8472637961470566,
+        "F1 Score": 0.2253795251070455
+    },
+    {
+        "Classifier": "svm",
+        "Feature": "simple_rel",
+        "Percentage": 0.4,
+        "Accuracy": 0.5420096021947873,
+        "Balanced Accuracy": 0.7611553250469463,
+        "F1 Score": 0.1526015228426396
+    },
+    {
+        "Classifier": "svm",
+        "Feature": "simple_rel",
+        "Percentage": 0.5,
+        "Accuracy": 0.7074074074074074,
+        "Balanced Accuracy": 0.8475884244372991,
+        "F1 Score": 0.2152317880794702
+    },
+    {
+        "Classifier": "svm",
+        "Feature": "simple_rel",
+        "Percentage": 0.6,
+        "Accuracy": 0.7069187242798354,
+        "Balanced Accuracy": 0.8473134128366608,
+        "F1 Score": 0.2154905335628227
+    },
+    {
+        "Classifier": "svm",
+        "Feature": "simple_rel",
+        "Percentage": 0.7,
+        "Accuracy": 0.7031893004115226,
+        "Balanced Accuracy": 0.8457494207806096,
+        "F1 Score": 0.2034054302807179
+    },
+    {
+        "Classifier": "svm",
+        "Feature": "simple_rel",
+        "Percentage": 0.8,
+        "Accuracy": 0.7067901234567902,
+        "Balanced Accuracy": 0.8475935828877006,
+        "F1 Score": 0.2061281337047353
+    },
+    {
+        "Classifier": "svm",
+        "Feature": "simple_rel",
+        "Percentage": 0.9,
+        "Accuracy": 0.5426954732510288,
+        "Balanced Accuracy": 0.7617899249732047,
+        "F1 Score": 0.1492822966507177
+    }
+]

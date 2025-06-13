@@ -1,0 +1,5 @@
+{
+    "benchmark": ["jobshop"],
+    "feature": ["rel_dim_block", "rel_dim", "simple_rel"],
+    "classifier": ["mlp", "logistic_regression", "svm"]
+} 

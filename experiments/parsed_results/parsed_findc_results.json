@@ -1,0 +1,634 @@
+{
+  "growacq": {
+    "random": {
+      "max_viol": {
+        "rel_dim_block": {
+          "findc": {
+            "Unnamed: 0": "random_growacq_max_viol_rel_dim_block_findc.csv",
+            "CL": 495.0,
+            "tot_q": 5193.75,
+            "memb_q": 5193.75,
+            "rec_q": 0,
+            "gen_q": 0,
+            "top_lvl_q": 824.25,
+            "qgen_q": 824.25,
+            "tfs_q": 3869.25,
+            "tfc_q": 500.25,
+            "avg_q_size": 25.8876375,
+            "avg_gen_time": 0.427425,
+            "avg_t": 0.0832375,
+            "max_t": 2.7716375,
+            "ml_t_t": 88.3654375,
+            "ml_p_t": 33.9345375,
+            "tot_t": 432.1635125,
+            "conv": 1
+          },
+          "guided-findc": {
+            "Unnamed: 0": "random_growacq_max_viol_rel_dim_block_guided-findc.csv",
+            "CL": 495.0,
+            "tot_q": 5166.875,
+            "memb_q": 5166.875,
+            "rec_q": 0,
+            "gen_q": 0,
+            "top_lvl_q": 822.75,
+            "qgen_q": 822.75,
+            "tfs_q": 3851.125,
+            "tfc_q": 493.0,
+            "avg_q_size": 25.8315375,
+            "avg_gen_time": 0.42525,
+            "avg_t": 0.0829,
+            "max_t": 2.6949125,
+            "ml_t_t": 88.0181625,
+            "ml_p_t": 33.592825,
+            "tot_t": 428.3768,
+            "conv": 1
+          }
+        }
+      },
+      "obj_proba": {
+        "rel_dim_block": {
+          "guided-findc": {
+            "Unnamed: 0": "random_growacq_obj_proba_rel_dim_block_guided-findc.csv",
+            "CL": 495.0,
+            "tot_q": 4994.625,
+            "memb_q": 4994.625,
+            "rec_q": 0,
+            "gen_q": 0,
+            "top_lvl_q": 1264.125,
+            "qgen_q": 1264.125,
+            "tfs_q": 3328.25,
+            "tfc_q": 402.25,
+            "avg_q_size": 25.8189875,
+            "avg_gen_time": 0.3044,
+            "avg_t": 0.092325,
+            "max_t": 2.8163625,
+            "ml_t_t": 138.1730125,
+            "ml_p_t": 34.7825,
+            "tot_t": 461.047525,
+            "conv": 1
+          },
+          "findc": {
+            "Unnamed: 0": "random_growacq_obj_proba_rel_dim_block_findc.csv",
+            "CL": 495.0,
+            "tot_q": 4943.125,
+            "memb_q": 4943.125,
+            "rec_q": 0,
+            "gen_q": 0,
+            "top_lvl_q": 1232.0,
+            "qgen_q": 1232.0,
+            "tfs_q": 3324.75,
+            "tfc_q": 386.375,
+            "avg_q_size": 25.7581125,
+            "avg_gen_time": 0.2960375,
+            "avg_t": 0.08875,
+            "max_t": 2.8128875,
+            "ml_t_t": 129.7406,
+            "ml_p_t": 32.769075,
+            "tot_t": 438.6543875,
+            "conv": 1
+          }
+        }
+      }
+    },
+    "gtsudoku": {
+      "max_viol": {
+        "rel_dim_block": {
+          "findc": {
+            "Unnamed: 0": "gtsudoku_growacq_max_viol_rel_dim_block_findc.csv",
+            "CL": 848.625,
+            "tot_q": 5838.5,
+            "memb_q": 5838.5,
+            "rec_q": 0,
+            "gen_q": 0,
+            "top_lvl_q": 1198.5,
+            "qgen_q": 1198.5,
+            "tfs_q": 4273.75,
+            "tfc_q": 366.25,
+            "avg_q_size": 19.7951125,
+            "avg_gen_time": 0.4317375,
+            "avg_t": 0.10105,
+            "max_t": 2.3242625,
+            "ml_t_t": 55.0112625,
+            "ml_p_t": 24.3896,
+            "tot_t": 589.746525,
+            "conv": 1
+          },
+          "guided-findc": {
+            "Unnamed: 0": "gtsudoku_growacq_max_viol_rel_dim_block_guided-findc.csv",
+            "CL": 848.875,
+            "tot_q": 5781.25,
+            "memb_q": 5781.25,
+            "rec_q": 0,
+            "gen_q": 0,
+            "top_lvl_q": 1200.625,
+            "qgen_q": 1200.625,
+            "tfs_q": 4217.375,
+            "tfc_q": 363.25,
+            "avg_q_size": 20.0875,
+            "avg_gen_time": 0.427575,
+            "avg_t": 0.1011,
+            "max_t": 2.37045,
+            "ml_t_t": 54.470325,
+            "ml_p_t": 23.9038125,
+            "tot_t": 584.4259625,
+            "conv": 1
+          }
+        }
+      },
+      "obj_proba": {
+        "rel_dim_block": {
+          "guided-findc": {
+            "Unnamed: 0": "gtsudoku_growacq_obj_proba_rel_dim_block_guided-findc.csv",
+            "CL": 851.5,
+            "tot_q": 1670.0,
+            "memb_q": 1670.0,
+            "rec_q": 0,
+            "gen_q": 0,
+            "top_lvl_q": 1448.0,
+            "qgen_q": 1448.0,
+            "tfs_q": 186.25,
+            "tfc_q": 35.75,
+            "avg_q_size": 18.5396625,
+            "avg_gen_time": 0.2287125,
+            "avg_t": 0.2195875,
+            "max_t": 2.5453125,
+            "ml_t_t": 72.3897125,
+            "ml_p_t": 16.588725,
+            "tot_t": 366.707975,
+            "conv": 1
+          },
+          "findc": {
+            "Unnamed: 0": "gtsudoku_growacq_obj_proba_rel_dim_block_findc.csv",
+            "CL": 849.5,
+            "tot_q": 1668.875,
+            "memb_q": 1668.875,
+            "rec_q": 0,
+            "gen_q": 0,
+            "top_lvl_q": 1450.125,
+            "qgen_q": 1450.125,
+            "tfs_q": 183.875,
+            "tfc_q": 34.875,
+            "avg_q_size": 18.4246875,
+            "avg_gen_time": 0.2236,
+            "avg_t": 0.21475,
+            "max_t": 2.4251,
+            "ml_t_t": 69.450225,
+            "ml_p_t": 15.97125,
+            "tot_t": 358.4186125,
+            "conv": 1
+          }
+        }
+      }
+    },
+    "nurse_rostering": {
+      "max_viol": {
+        "rel_dim_block": {
+          "findc": {
+            "Unnamed: 0": "nurse_rostering_growacq_max_viol_rel_dim_block_findc.csv",
+            "CL": 885.0,
+            "tot_q": 6907.0,
+            "memb_q": 6907.0,
+            "rec_q": 0,
+            "gen_q": 0,
+            "top_lvl_q": 1914.125,
+            "qgen_q": 1914.125,
+            "tfs_q": 4604.625,
+            "tfc_q": 388.25,
+            "avg_q_size": 26.6032625,
+            "avg_gen_time": 0.4168625,
+            "avg_t": 0.13025,
+            "max_t": 2.7276,
+            "ml_t_t": 81.0708125,
+            "ml_p_t": 34.0408875,
+            "tot_t": 899.3949875,
+            "conv": 1
+          },
+          "guided-findc": {
+            "Unnamed: 0": "nurse_rostering_growacq_max_viol_rel_dim_block_guided-findc.csv",
+            "CL": 885.0,
+            "tot_q": 6912.5,
+            "memb_q": 6912.5,
+            "rec_q": 0,
+            "gen_q": 0,
+            "top_lvl_q": 1910.25,
+            "qgen_q": 1910.25,
+            "tfs_q": 4601.25,
+            "tfc_q": 401.0,
+            "avg_q_size": 26.7807125,
+            "avg_gen_time": 0.4307125,
+            "avg_t": 0.134075,
+            "max_t": 2.7470375,
+            "ml_t_t": 81.915025,
+            "ml_p_t": 35.4214125,
+            "tot_t": 926.7436,
+            "conv": 1
+          }
+        }
+      },
+      "obj_proba": {
+        "rel_dim_block": {
+          "findc": {
+            "Unnamed: 0": "nurse_rostering_growacq_obj_proba_rel_dim_block_findc.csv",
+            "CL": 885.0,
+            "tot_q": 2291.25,
+            "memb_q": 2291.25,
+            "rec_q": 0,
+            "gen_q": 0,
+            "top_lvl_q": 2285.5,
+            "qgen_q": 2285.5,
+            "tfs_q": 3.375,
+            "tfc_q": 2.375,
+            "avg_q_size": 24.6832125,
+            "avg_gen_time": 0.24705,
+            "avg_t": 0.270675,
+            "max_t": 2.7339625,
+            "ml_t_t": 97.587625,
+            "ml_p_t": 25.816025,
+            "tot_t": 620.1334625,
+            "conv": 1
+          },
+          "guided-findc": {
+            "Unnamed: 0": "nurse_rostering_growacq_obj_proba_rel_dim_block_guided-findc.csv",
+            "CL": 885.0,
+            "tot_q": 2295.75,
+            "memb_q": 2295.75,
+            "rec_q": 0,
+            "gen_q": 0,
+            "top_lvl_q": 2291.5,
+            "qgen_q": 2291.5,
+            "tfs_q": 2.25,
+            "tfc_q": 2.0,
+            "avg_q_size": 24.6501,
+            "avg_gen_time": 0.24815,
+            "avg_t": 0.2722375,
+            "max_t": 2.8059875,
+            "ml_t_t": 99.8533,
+            "ml_p_t": 26.2882875,
+            "tot_t": 624.9815375,
+            "conv": 1
+          }
+        }
+      }
+    },
+    "exam_timetable": {
+      "max_viol": {
+        "rel_dim_block": {
+          "findc": {
+            "Unnamed: 0": "exam_timetable_growacq_max_viol_rel_dim_block_findc.csv",
+            "CL": 1040.75,
+            "tot_q": 4958.25,
+            "memb_q": 4958.25,
+            "rec_q": 0,
+            "gen_q": 0,
+            "top_lvl_q": 1061.75,
+            "qgen_q": 1061.75,
+            "tfs_q": 3288.25,
+            "tfc_q": 608.25,
+            "avg_q_size": 11.0993125,
+            "avg_gen_time": 0.7221125,
+            "avg_t": 0.1700875,
+            "max_t": 2.5732,
+            "ml_t_t": 20.1312875,
+            "ml_p_t": 27.8096375,
+            "tot_t": 842.9758875,
+            "conv": 1
+          },
+          "guided-findc": {
+            "Unnamed: 0": "exam_timetable_growacq_max_viol_rel_dim_block_guided-findc.csv",
+            "CL": 1045.625,
+            "tot_q": 4924.875,
+            "memb_q": 4924.875,
+            "rec_q": 0,
+            "gen_q": 0,
+            "top_lvl_q": 1061.875,
+            "qgen_q": 1061.875,
+            "tfs_q": 3272.75,
+            "tfc_q": 590.25,
+            "avg_q_size": 11.257,
+            "avg_gen_time": 0.71925,
+            "avg_t": 0.1704,
+            "max_t": 2.56275,
+            "ml_t_t": 20.296225,
+            "ml_p_t": 27.940875,
+            "tot_t": 838.9532875,
+            "conv": 1
+          }
+        }
+      },
+      "obj_proba": {
+        "rel_dim_block": {
+          "findc": {
+            "Unnamed: 0": "exam_timetable_growacq_obj_proba_rel_dim_block_findc.csv",
+            "CL": 1073.625,
+            "tot_q": 1704.75,
+            "memb_q": 1704.75,
+            "rec_q": 0,
+            "gen_q": 0,
+            "top_lvl_q": 1224.5,
+            "qgen_q": 1224.5,
+            "tfs_q": 382.875,
+            "tfc_q": 97.375,
+            "avg_q_size": 17.53965,
+            "avg_gen_time": 0.3585125,
+            "avg_t": 0.275875,
+            "max_t": 2.59515,
+            "ml_t_t": 25.3617375,
+            "ml_p_t": 16.3721375,
+            "tot_t": 470.2392375,
+            "conv": 1
+          },
+          "guided-findc": {
+            "Unnamed: 0": "exam_timetable_growacq_obj_proba_rel_dim_block_guided-findc.csv",
+            "CL": 1069.875,
+            "tot_q": 1736.375,
+            "memb_q": 1736.375,
+            "rec_q": 0,
+            "gen_q": 0,
+            "top_lvl_q": 1224.125,
+            "qgen_q": 1224.125,
+            "tfs_q": 409.75,
+            "tfc_q": 102.5,
+            "avg_q_size": 17.3755375,
+            "avg_gen_time": 0.3664125,
+            "avg_t": 0.2768625,
+            "max_t": 2.7134,
+            "ml_t_t": 25.135125,
+            "ml_p_t": 17.2539875,
+            "tot_t": 480.7251625,
+            "conv": 1
+          }
+        }
+      }
+    },
+    "jobshop": {
+      "obj_proba": {
+        "rel_dim_block": {
+          "findc": {
+            "Unnamed: 0": "jobshop_growacq_obj_proba_rel_dim_block_findc.csv",
+            "CL": 328.75,
+            "tot_q": 1825.5,
+            "memb_q": 1825.5,
+            "rec_q": 0,
+            "gen_q": 0,
+            "top_lvl_q": 653.125,
+            "qgen_q": 653.125,
+            "tfs_q": 961.375,
+            "tfc_q": 211.0,
+            "avg_q_size": 41.9830125,
+            "avg_gen_time": 0.709075,
+            "avg_t": 0.3244875,
+            "max_t": 5.2751,
+            "ml_t_t": 110.2821625,
+            "ml_p_t": 49.8023375,
+            "tot_t": 592.1962125,
+            "conv": 1
+          },
+          "guided-findc": {
+            "Unnamed: 0": "jobshop_growacq_obj_proba_rel_dim_block_guided-findc.csv",
+            "CL": 348.75,
+            "tot_q": 1802.375,
+            "memb_q": 1802.375,
+            "rec_q": 0,
+            "gen_q": 0,
+            "top_lvl_q": 655.75,
+            "qgen_q": 655.75,
+            "tfs_q": 961.25,
+            "tfc_q": 185.375,
+            "avg_q_size": 42.3768125,
+            "avg_gen_time": 0.7075375,
+            "avg_t": 0.3284875,
+            "max_t": 5.14185,
+            "ml_t_t": 111.3328375,
+            "ml_p_t": 50.09965,
+            "tot_t": 592.060775,
+            "conv": 1
+          }
+        }
+      },
+      "max_viol": {
+        "rel_dim_block": {
+          "findc": {
+            "Unnamed: 0": "jobshop_growacq_max_viol_rel_dim_block_findc.csv",
+            "CL": 292.25,
+            "tot_q": 1918.375,
+            "memb_q": 1918.375,
+            "rec_q": 0,
+            "gen_q": 0,
+            "top_lvl_q": 599.625,
+            "qgen_q": 599.625,
+            "tfs_q": 1025.375,
+            "tfc_q": 293.375,
+            "avg_q_size": 41.3831125,
+            "avg_gen_time": 0.7694875,
+            "avg_t": 0.3118375,
+            "max_t": 5.229675,
+            "ml_t_t": 100.879075,
+            "ml_p_t": 52.3047,
+            "tot_t": 597.9595375,
+            "conv": 1
+          },
+          "guided-findc": {
+            "Unnamed: 0": "jobshop_growacq_max_viol_rel_dim_block_guided-findc.csv",
+            "CL": 292.0,
+            "tot_q": 1873.875,
+            "memb_q": 1873.875,
+            "rec_q": 0,
+            "gen_q": 0,
+            "top_lvl_q": 596.0,
+            "qgen_q": 596.0,
+            "tfs_q": 1025.0,
+            "tfc_q": 252.875,
+            "avg_q_size": 42.3390375,
+            "avg_gen_time": 0.7742125,
+            "avg_t": 0.3187875,
+            "max_t": 5.4880125,
+            "ml_t_t": 100.110275,
+            "ml_p_t": 52.6613125,
+            "tot_t": 597.0590625,
+            "conv": 1
+          }
+        }
+      }
+    },
+    "sudoku": {
+      "max_viol": {
+        "rel_dim_block": {
+          "guided-findc": {
+            "Unnamed: 0": "sudoku_growacq_max_viol_rel_dim_block_guided-findc.csv",
+            "CL": 810.0,
+            "tot_q": 5764.5,
+            "memb_q": 5764.5,
+            "rec_q": 0,
+            "gen_q": 0,
+            "top_lvl_q": 1195.75,
+            "qgen_q": 1195.75,
+            "tfs_q": 4227.0,
+            "tfc_q": 341.75,
+            "avg_q_size": 19.2661,
+            "avg_gen_time": 0.370225,
+            "avg_t": 0.088875,
+            "max_t": 2.3707375,
+            "ml_t_t": 40.6781375,
+            "ml_p_t": 24.0283375,
+            "tot_t": 512.1868375,
+            "conv": 1
+          },
+          "findc": {
+            "Unnamed: 0": "sudoku_growacq_max_viol_rel_dim_block_findc.csv",
+            "CL": 810.0,
+            "tot_q": 5735.5,
+            "memb_q": 5735.5,
+            "rec_q": 0,
+            "gen_q": 0,
+            "top_lvl_q": 1202.75,
+            "qgen_q": 1202.75,
+            "tfs_q": 4194.25,
+            "tfc_q": 338.5,
+            "avg_q_size": 19.2257125,
+            "avg_gen_time": 0.3659625,
+            "avg_t": 0.0888875,
+            "max_t": 2.319025,
+            "ml_t_t": 40.642375,
+            "ml_p_t": 23.949625,
+            "tot_t": 509.707775,
+            "conv": 1
+          }
+        }
+      },
+      "obj_proba": {
+        "rel_dim_block": {
+          "guided-findc": {
+            "Unnamed: 0": "sudoku_growacq_obj_proba_rel_dim_block_guided-findc.csv",
+            "CL": 810.0,
+            "tot_q": 1456.375,
+            "memb_q": 1456.375,
+            "rec_q": 0,
+            "gen_q": 0,
+            "top_lvl_q": 1441.25,
+            "qgen_q": 1441.25,
+            "tfs_q": 11.75,
+            "tfc_q": 3.375,
+            "avg_q_size": 17.41795,
+            "avg_gen_time": 0.17325,
+            "avg_t": 0.1922875,
+            "max_t": 2.3441375,
+            "ml_t_t": 51.468175,
+            "ml_p_t": 15.0321375,
+            "tot_t": 280.0254125,
+            "conv": 1
+          },
+          "findc": {
+            "Unnamed: 0": "sudoku_growacq_obj_proba_rel_dim_block_findc.csv",
+            "CL": 810.0,
+            "tot_q": 1464.5,
+            "memb_q": 1464.5,
+            "rec_q": 0,
+            "gen_q": 0,
+            "top_lvl_q": 1440.75,
+            "qgen_q": 1440.75,
+            "tfs_q": 18.5,
+            "tfc_q": 5.25,
+            "avg_q_size": 17.365025,
+            "avg_gen_time": 0.1755,
+            "avg_t": 0.194,
+            "max_t": 2.4278125,
+            "ml_t_t": 51.8875,
+            "ml_p_t": 15.4255125,
+            "tot_t": 284.1127125,
+            "conv": 1
+          }
+        }
+      }
+    },
+    "jsudoku": {
+      "max_viol": {
+        "rel_dim_block": {
+          "guided-findc": {
+            "Unnamed: 0": "jsudoku_growacq_max_viol_rel_dim_block_guided-findc.csv",
+            "CL": 811.0,
+            "tot_q": 5839.375,
+            "memb_q": 5839.375,
+            "rec_q": 0,
+            "gen_q": 0,
+            "top_lvl_q": 1210.25,
+            "qgen_q": 1210.25,
+            "tfs_q": 4282.25,
+            "tfc_q": 346.875,
+            "avg_q_size": 19.5070125,
+            "avg_gen_time": 0.3947875,
+            "avg_t": 0.0938125,
+            "max_t": 2.5433875,
+            "ml_t_t": 43.379625,
+            "ml_p_t": 23.868475,
+            "tot_t": 547.6398625,
+            "conv": 1
+          },
+          "findc": {
+            "Unnamed: 0": "jsudoku_growacq_max_viol_rel_dim_block_findc.csv",
+            "CL": 811.0,
+            "tot_q": 5835.75,
+            "memb_q": 5835.75,
+            "rec_q": 0,
+            "gen_q": 0,
+            "top_lvl_q": 1211.0,
+            "qgen_q": 1211.0,
+            "tfs_q": 4278.625,
+            "tfc_q": 346.125,
+            "avg_q_size": 19.4753,
+            "avg_gen_time": 0.397025,
+            "avg_t": 0.0945625,
+            "max_t": 2.571875,
+            "ml_t_t": 43.974525,
+            "ml_p_t": 24.4244,
+            "tot_t": 551.57115,
+            "conv": 1
+          }
+        }
+      },
+      "obj_proba": {
+        "rel_dim_block": {
+          "findc": {
+            "Unnamed: 0": "jsudoku_growacq_obj_proba_rel_dim_block_findc.csv",
+            "CL": 811.0,
+            "tot_q": 1916.875,
+            "memb_q": 1916.875,
+            "rec_q": 0,
+            "gen_q": 0,
+            "top_lvl_q": 1508.75,
+            "qgen_q": 1508.75,
+            "tfs_q": 364.875,
+            "tfc_q": 43.25,
+            "avg_q_size": 18.7570625,
+            "avg_gen_time": 0.2047,
+            "avg_t": 0.1798,
+            "max_t": 2.652025,
+            "ml_t_t": 57.5912,
+            "ml_p_t": 16.4545375,
+            "tot_t": 344.5719625,
+            "conv": 1
+          },
+          "guided-findc": {
+            "Unnamed: 0": "jsudoku_growacq_obj_proba_rel_dim_block_guided-findc.csv",
+            "CL": 811.0,
+            "tot_q": 1938.0,
+            "memb_q": 1938.0,
+            "rec_q": 0,
+            "gen_q": 0,
+            "top_lvl_q": 1508.375,
+            "qgen_q": 1508.375,
+            "tfs_q": 388.375,
+            "tfc_q": 41.25,
+            "avg_q_size": 18.8935,
+            "avg_gen_time": 0.204175,
+            "avg_t": 0.1771875,
+            "max_t": 2.5103125,
+            "ml_t_t": 57.1405625,
+            "ml_p_t": 16.292575,
+            "tot_t": 343.2513,
+            "conv": 1
+          }
+        }
+      }
+    }
+  }
+}

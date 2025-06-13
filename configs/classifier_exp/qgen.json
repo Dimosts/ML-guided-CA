@@ -1,0 +1,9 @@
+{
+    "benchmark": ["sudoku", "jsudoku", "gtsudoku", "exam_timetable", "nurse_rostering", "jobshop", "random"],
+    "algorithm": ["growacq"],
+    "objective": ["obj_proba2", "obj_class", "obj_proba"],
+    "features": ["rel_dim_block", "rel_dim", "simple_rel"],
+    "classifier": ["random_forest", "decision_tree", "logistic_regression", "mlp", "naive_bayes", "svm"],
+    "guide": ["qgen"],
+    "n_runs": [10]
+}
