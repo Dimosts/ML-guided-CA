@@ -39,6 +39,10 @@ def parse_filename(filename):
     return None, None, None, None, None
 
 def process_classifier_results(results_folder):
+    # Create output directory if it doesn't exist
+    output_dir = "experiments/aggregated_results"
+    os.makedirs(output_dir, exist_ok=True)
+    
     # Get the folder name to use as output prefix
     normalized_path = results_folder.rstrip('/')  # Remove trailing slashes first
     output_prefix = os.path.basename(normalized_path) + "_"
@@ -127,8 +131,8 @@ def process_classifier_results(results_folder):
             stderr_df = df[cols]
     
     # Save to CSV files
-    means_output_file = f"{output_prefix}averaged_results.csv"
-    stderr_output_file = f"{output_prefix}stderr_results.csv"
+    means_output_file = os.path.join(output_dir, f"{output_prefix}averaged_results.csv")
+    stderr_output_file = os.path.join(output_dir, f"{output_prefix}stderr_results.csv")
     
     means_df.to_csv(means_output_file)
     stderr_df.to_csv(stderr_output_file)
